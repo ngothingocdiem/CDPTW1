@@ -1,0 +1,49 @@
+.type-6 {
+  font-family: "Rationale"; }
+  @font-face {
+    font-family: Rationale;
+    src: url(../fonts/Rationale-Regular.ttf); }
+  .type-6 .card {
+    border-radius: 0 !important;
+    border: 1px solid #f0f0f0; }
+    .type-6 .card img {
+      cursor: pointer; }
+      .type-6 .card .card-body .title-top {
+        border-bottom: 1px solid #f0f0f0; }
+        .type-6 .card .card-body .title-top .date {
+          border-right: 1px solid #f0f0f0;
+          color: #ac8e0a; }
+          .type-6 .card .card-body .title-top .date h4, .type-6 .card .card-body .title-top .date span {
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            word-break: break-word;
+            -webkit-line-clamp: 1; }
+        .type-6 .card .card-body .title-top .card-title {
+          overflow: hidden;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          word-break: break-word;
+          -webkit-line-clamp: 2; }
+      .type-6 .card .card-body .card-text {
+        font-family: initial;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        word-break: break-word;
+        -webkit-line-clamp: 4; }
+  .type-6 .text-1 {
+    z-index: 2; }
+    .type-6 .text-1 h5 {
+      word-spacing: 1px;
+      letter-spacing: 2px; }
+    .type-6 .text-1 span {
+      font-size: 12px; }
+  .type-6 .text-2 {
+    opacity: 0.8;
+    color: #f6f6f6;
+    font-size: 50px;
+    z-index: 1;
+    font-family: monospace;
+    word-spacing: -18px;
+    letter-spacing: 1px; }
