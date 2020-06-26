@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 
-require_once "scss.inc.php";
+require_once "scssphp/scss.inc.php";
 
 use ScssPhp\ScssPhp\Compiler;
 
@@ -32,7 +32,7 @@ file_put_contents("css/1516.css", $result);
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>1516</title>
       <link href="<?php echo $url_path ?>/css/bootstrap.min.css " rel="stylesheet" type="text/css">
-      <link href="<?php echo $url_path ?>/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+      <link href="<?php echo $url_path ?>/fonts/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
       <link href="<?php echo $url_path ?>/css/1516.css" rel="stylesheet" type="text/css">
 
 </head>
