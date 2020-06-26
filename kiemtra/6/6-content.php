@@ -26,7 +26,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <div class="row mt-4">
                   <div class="col-lg-4 col-md-6 col-12 mb-md-4 mb-3">
                         <div class="card">
-                              <img src="images/6-img1.png" class="card-img-top" alt="Hình 1">
+                              <img src="images/6-img1.png" class="card-img-top" alt="Hình 1 module 6">
                               <div class="card-body p-0">
                                     <div class="row m-0 d-flex justify-content-center align-items-center title-top">
                                           <div class="col-3 date d-flex justify-content-center p-0">
@@ -108,6 +108,4 @@ $url_path = str_replace('\\', '/', $url_path);
                   </div>
             </div>
       </div>
-
-</div>
 </div>
