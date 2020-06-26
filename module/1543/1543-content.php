@@ -35,7 +35,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="m-30">
                               <div class="learn-video position-relative w-100 h-100 ">
                                     <div class="w-100 h-100 position-absolute" id="img-video" onclick="show()">
-                                          <img class="w-100 h-100" src="images/1543-img1.png">
+                                          <img class="w-100 h-100" src="images/1543-img1.png" alt="hình 1 module 1543">
                                           <div class="w-100 h-100 d-flex justify-content-center align-items-center">
                                                 <i class="fa fa-play-circle-o position-relative text-white"
                                                       aria-hidden="true"></i>

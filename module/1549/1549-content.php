@@ -50,7 +50,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="d-flex comment p-30">
                               <div class="mr-4">
-                                    <img src="images/1549.png" class="rounded-circle w-100">
+                                    <img src="images/1549.png" class="rounded-circle w-100" alt="hình 1 module 1549">
                               </div>
                               <div>
                                     <div class="title">

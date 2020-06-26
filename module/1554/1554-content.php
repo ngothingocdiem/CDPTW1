@@ -24,7 +24,7 @@ $url_path = str_replace('\\', '/', $url_path);
                               </div>
                               <div class="form-group">
                                     <input type="email" class="form-control" id="exampleInputEmail1"
-                                          aria-describedby="emailHelp" placeholder="Email">
+                                           placeholder="Email">
                               </div>
                               <div class="form-group">
                                     <input type="tel" class="form-control" id="exampleInputPhone1" pattern="[0-9()#&+*-=.]+"

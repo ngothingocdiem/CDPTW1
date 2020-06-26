@@ -25,7 +25,7 @@ $url_path = str_replace('\\', '/', $url_path);
                   <div class="col-lg-4 col-md-6 col-12 p-0">
                         <div class="card border-0 p-1">
                               <div class="position-relative img">
-                                    <img class="card-img" src="images/1559-img1.jpg" alt="Hình 1">
+                                    <img class="card-img" src="images/1559-img1.jpg" alt="Hình 1 module 1559">
                                     <div
                                           class="card-img-overlay position-absolute d-flex justify-content-center align-items-center">
                                           <a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
@@ -49,7 +49,7 @@ $url_path = str_replace('\\', '/', $url_path);
                   <div class="col-lg-4 col-md-6 col-12 p-0">
                         <div class="card border-0 p-1">
                               <div class="position-relative img">
-                                    <img class="card-img" src="images/1559-img2.jpg" alt="Hình 2">
+                                    <img class="card-img" src="images/1559-img2.jpg" alt="Hình 2 module 1559">
                                     <div
                                           class="card-img-overlay position-absolute d-flex justify-content-center align-items-center">
                                           <a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
@@ -73,7 +73,7 @@ $url_path = str_replace('\\', '/', $url_path);
                   <div class="col-lg-4 col-md-6 col-12 p-0">
                         <div class="card border-0 p-1">
                               <div class="position-relative img">
-                                    <img class="card-img" src="images/1559-img3.jpg" alt="Hình 3">
+                                    <img class="card-img" src="images/1559-img3.jpg" alt="Hình 3 module 1559">
                                     <div
                                           class="card-img-overlay position-absolute d-flex justify-content-center align-items-center">
                                           <a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
@@ -96,6 +96,4 @@ $url_path = str_replace('\\', '/', $url_path);
                   </div>
             </div>
       </div>
-
-</div>
 </div>

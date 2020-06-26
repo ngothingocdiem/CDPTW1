@@ -16,9 +16,9 @@
       text-decoration: none; }
       .type-1559 .list-views a .active {
         border-bottom: 2px solid #21bda1; }
-      .type-1559 .list-views a:hover span {
-        border-bottom: 2px solid #21bda1;
-        transition: opacity 0.35s all ease; }
+        .type-1559 .list-views a:hover span {
+          border-bottom: 2px solid #21bda1;
+          transition: opacity 0.35s ease; }
       @media (max-width: 415px) {
         .type-1559 .list-views a {
           line-height: 2.2em; } }
