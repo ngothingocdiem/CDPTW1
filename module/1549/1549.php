@@ -32,7 +32,7 @@ file_put_contents("css/1549.css", $result);
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>1549</title>
       <link href="<?php echo $url_path ?>/css/bootstrap.min.css " rel="stylesheet" type="text/css">
-      <link href="<?php echo $url_path ?>/fonts/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+      <link href="<?php echo $url_path ?>/fonts/fontawesome/font-awesome.min.css" rel="stylesheet" type="text/css">
       <link href="<?php echo $url_path ?>/css/1549.css" rel="stylesheet" type="text/css">
 
 </head>
